@@ -1,0 +1,829 @@
+[
+  {
+    "name": "NodeJS",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "React",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "React Native",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Python",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "GoLang",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Java",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Kotlin",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Dotnet Core",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Dotnet Framework",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Microsoft Orleans Framework",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Swift",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "IOS",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Tableau",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "IAR",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Corp standard tools",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Active Directory",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure IoT Hub",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Event Hubs",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Service Bus",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Application Gateway",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Confluent Apache Kafka on Azure",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Data Stream",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Waterline",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Privacera",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "SendGrid",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Communication Services",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Twilio",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "ORY Hydra",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure SSO",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Ping",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Open Policy Agent",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Astronomer",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Velero",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "ActiveMQ",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Key Vault",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Hashicorp Vault",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure API Management",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Delta Lake",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Databricks",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Data Lake Storage",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Dremio",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Domino Datalabs",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Apache Kafka",
+    "quadrant": "Tools",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Arm Pelion",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "VernMQ",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Mulesoft",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Rancher",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Hortonworks Data Platform",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "SkySpark",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Openshift",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Kong API Management",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Kong API Gateway",
+    "quadrant": "Tools",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "PostgreSQL",
+    "quadrant": "Databases",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Blob Storage",
+    "quadrant": "Databases",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Geo-Redundant Storage",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Druid",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Disk Storage",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Redis",
+    "quadrant": "Databases",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Neo4J",
+    "quadrant": "Databases",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Data Explorer",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "MS SQL",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "MySQL",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Apache Cassandra",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "MongoDB",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "InfluxDB",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "CockroachDB",
+    "quadrant": "Databases",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Virtual Machines",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Kubernetes Service",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Functions",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure App Service",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Serverless Workloads",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Container Service",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Dapr",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Backup",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Virtual Network and Subnets",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Network Security Group",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Firewall",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Load Balancer",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Open Service Mesh",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Octopus",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Automation",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Bamboo",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Automate",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Terraform",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Ansible",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Cake Build",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Docker",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Bitbucket",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Artifactory",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "LaunchDarkly",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure App Configuration",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Synopsys Black Duck",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Synopsys Coverity",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "SonarQube",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Twistlock",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Paessler PRTG",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Monitor",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Monitor Alerts",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Azure Application Insights",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Grafana",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Prometheus",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Elastic ELK",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "App Dynamics",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Jaeger",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "CatchPoint",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Highstock",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Keda",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Horizontal Pod Autoscaler",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Helm",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "OpenTelemetry",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "OpenAPI Specification 3.x.x",
+    "quadrant": "PaaS",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Github Actions",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Github",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Jenkins",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "ContainerD",
+    "quadrant": "Languages & Frameworks",
+    "ring": "Grow",
+    "isNew": "FALSE",
+    "description": ""
+  },
+  {
+    "name": "Forgerock",
+    "quadrant": "PaaS",
+    "ring": "Retire",
+    "isNew": "FALSE",
+    "description": ""
+  }
+]
+
