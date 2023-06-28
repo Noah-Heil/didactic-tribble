@@ -37,7 +37,7 @@
   {
     "name": "Java",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -51,21 +51,21 @@
   {
     "name": "Dotnet Core",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Dotnet Framework",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Microsoft Orleans Framework",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -79,56 +79,56 @@
   {
     "name": "IOS",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Tableau",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "IAR",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Corp standard tools",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Active Directory",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure IoT Hub",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Event Hubs",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Service Bus",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -156,21 +156,21 @@
   {
     "name": "Waterline",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Privacera",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "SendGrid",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -184,7 +184,7 @@
   {
     "name": "Twilio",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -219,14 +219,14 @@
   {
     "name": "Astronomer",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Velero",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -247,7 +247,7 @@
   {
     "name": "Hashicorp Vault",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -324,7 +324,7 @@
   {
     "name": "Rancher",
     "quadrant": "Tools",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -380,28 +380,28 @@
   {
     "name": "Azure Geo-Redundant Storage",
     "quadrant": "Databases",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Druid",
     "quadrant": "Databases",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Disk Storage",
     "quadrant": "Databases",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Cosmos DB",
     "quadrant": "Databases",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -422,7 +422,7 @@
   {
     "name": "Azure Data Explorer",
     "quadrant": "Databases",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -478,7 +478,7 @@
   {
     "name": "Azure Virtual Machines",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -492,28 +492,28 @@
   {
     "name": "Azure Functions",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure App Service",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Serverless Workloads",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Container Service",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -534,28 +534,28 @@
   {
     "name": "Azure Virtual Network and Subnets",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Network Security Group",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Firewall",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Azure Load Balancer",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -569,7 +569,7 @@
   {
     "name": "Octopus",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -590,7 +590,7 @@
   {
     "name": "Automate",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -625,14 +625,14 @@
   {
     "name": "Bitbucket",
     "quadrant": "PaaS",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Artifactory",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -653,28 +653,28 @@
   {
     "name": "Synopsys Black Duck",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Synopsys Coverity",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "SonarQube",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
   {
     "name": "Twistlock",
     "quadrant": "Languages & Frameworks",
-    "ring": "Retire",
+    "ring": "Maintain",
     "isNew": "FALSE",
     "description": ""
   },
@@ -826,4 +826,3 @@
     "description": ""
   }
 ]
-
