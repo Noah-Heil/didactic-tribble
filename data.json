@@ -826,94 +826,94 @@
     "description": ""
   },
   {
-    "name": "Databricks",
+    "name": "Disks",
     "quadrant": "Databases",
     "ring": "Hold",
     "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 4</i><i>CBLD - 4</i><i>CSPS - 0</i><i>CPLT - 2</i><i>CYBR - 0</i><i>CHQ - 46</i><i>CI - 7</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "SQL Pools",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 2</i><i>CBLD - 33</i><i>CSPS - 6</i><i>CPLT - 0</i><i>CYBR - 0</i><i>CHQ - 0</i><i>CI - 0</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "MySQL",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 1</i><i>CBLD - 2</i><i>CSPS - 0</i><i>CPLT - 5</i><i>CYBR - 0</i><i>CHQ - 11</i><i>CI - 2</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "SQL MI",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 0</i><i>CBLD - 0</i><i>CSPS - 0</i><i>CPLT - 0</i><i>CYBR - 0</i><i>CHQ - 4</i><i>CI - 0</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 166 </i><br><i>CBLD - 525 </i><br><i>CSPS - 57 </i><br><i>CPLT - 490 </i><br><i>CYBR - 445 </i><br><i>CHQ - 3567 </i><br><i>CI - 217 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
   },
   {
     "name": "SQL DBs",
     "quadrant": "Databases",
     "ring": "Hold",
     "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 32</i><i>CBLD - 3941</i><i>CSPS - 83</i><i>CPLT - 10</i><i>CYBR - 2</i><i>CHQ - 3</i><i>CI - 7</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "PostgreSQL",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 58</i><i>CBLD - 35</i><i>CSPS - 0</i><i>CPLT - 10</i><i>CYBR - 0</i><i>CHQ - 99</i><i>CI - 12</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "SQL Servers",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 5</i><i>CBLD - 59</i><i>CSPS - 7</i><i>CPLT - 5</i><i>CYBR - 1</i><i>CHQ - 5</i><i>CI - 7</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "Redis Cache",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 0</i><i>CBLD - 37</i><i>CSPS - 6</i><i>CPLT - 6</i><i>CYBR - 3</i><i>CHQ - 56</i><i>CI - 7</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "Cosmos DB",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 0</i><i>CBLD - 44</i><i>CSPS - 0</i><i>CPLT - 12</i><i>CYBR - 4</i><i>CHQ - 34</i><i>CI - 9</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "SQL MI DBs",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 0</i><i>CBLD - 0</i><i>CSPS - 0</i><i>CPLT - 0</i><i>CYBR - 0</i><i>CHQ - 4</i><i>CI - 0</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "Disks",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 166</i><i>CBLD - 525</i><i>CSPS - 57</i><i>CPLT - 490</i><i>CYBR - 445</i><i>CHQ - 3567</i><i>CI - 217</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
-  },
-  {
-    "name": "Storage Acc",
-    "quadrant": "Databases",
-    "ring": "Hold",
-    "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 117</i><i>CBLD - 577</i><i>CSPS - 134</i><i>CPLT - 285</i><i>CYBR - 15</i><i>CHQ - 1003</i><i>CI - 322</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 32 </i><br><i>CBLD - 3941 </i><br><i>CSPS - 83 </i><br><i>CPLT - 10 </i><br><i>CYBR - 2 </i><br><i>CHQ - 3 </i><br><i>CI - 7 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
   },
   {
     "name": "SQL VMs",
     "quadrant": "Databases",
     "ring": "Hold",
     "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG- </strong><i>CAERO - 2</i><i>CBLD - 36</i><i>CSPS - 3</i><i>CPLT - 49</i><i>CYBR - 8</i><i>CHQ - 4</i><i>CI - 28</i> <strong>Standards:</strong> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <strong>Link to the corresponding Terraform Registry and module - <a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 2 </i><br><i>CBLD - 36 </i><br><i>CSPS - 3 </i><br><i>CPLT - 49 </i><br><i>CYBR - 8 </i><br><i>CHQ - 4 </i><br><i>CI - 28 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "Redis Cache",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 0 </i><br><i>CBLD - 37 </i><br><i>CSPS - 6 </i><br><i>CPLT - 6 </i><br><i>CYBR - 3 </i><br><i>CHQ - 56 </i><br><i>CI - 7 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "MySQL",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 1 </i><br><i>CBLD - 2 </i><br><i>CSPS - 0 </i><br><i>CPLT - 5 </i><br><i>CYBR - 0 </i><br><i>CHQ - 11 </i><br><i>CI - 2 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "SQL MI",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 0 </i><br><i>CBLD - 0 </i><br><i>CSPS - 0 </i><br><i>CPLT - 0 </i><br><i>CYBR - 0 </i><br><i>CHQ - 4 </i><br><i>CI - 0 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "Storage Acc",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 117 </i><br><i>CBLD - 577 </i><br><i>CSPS - 134 </i><br><i>CPLT - 285 </i><br><i>CYBR - 15 </i><br><i>CHQ - 1003 </i><br><i>CI - 322 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "PostgreSQL",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 58 </i><br><i>CBLD - 35 </i><br><i>CSPS - 0 </i><br><i>CPLT - 10 </i><br><i>CYBR - 0 </i><br><i>CHQ - 99 </i><br><i>CI - 12 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "Cosmos DB",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 0 </i><br><i>CBLD - 44 </i><br><i>CSPS - 0 </i><br><i>CPLT - 12 </i><br><i>CYBR - 4 </i><br><i>CHQ - 34 </i><br><i>CI - 9 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "SQL Servers",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 5 </i><br><i>CBLD - 59 </i><br><i>CSPS - 7 </i><br><i>CPLT - 5 </i><br><i>CYBR - 1 </i><br><i>CHQ - 5 </i><br><i>CI - 7 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "Databricks",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 4 </i><br><i>CBLD - 4 </i><br><i>CSPS - 0 </i><br><i>CPLT - 2 </i><br><i>CYBR - 0 </i><br><i>CHQ - 46 </i><br><i>CI - 7 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "SQL Pools",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 2 </i><br><i>CBLD - 33 </i><br><i>CSPS - 6 </i><br><i>CPLT - 0 </i><br><i>CYBR - 0 </i><br><i>CHQ - 0 </i><br><i>CI - 0 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
+  },
+  {
+    "name": "SQL MI DBs",
+    "quadrant": "Databases",
+    "ring": "Hold",
+    "isNew": "FALSE",
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 0 </i><br><i>CBLD - 0 </i><br><i>CSPS - 0 </i><br><i>CPLT - 0 </i><br><i>CYBR - 0 </i><br><i>CHQ - 4 </i><br><i>CI - 0 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong><a href=\"https://registry.terraform.io\">Link to Corresponding Terraform Module</a></strong><br></p>"
   }
 ]
