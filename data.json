@@ -368,7 +368,7 @@
     "quadrant": "Databases",
     "ring": "Grow",
     "isNew": "FALSE",
-    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 58 </i><br><i>CBLD - 35 </i><br><i>CSPS - 0 </i><br><i>CPLT - 10 </i><br><i>CYBR - 0 </i><br><i>CHQ - 99 </i><br><i>CI - 12 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><strong>Link to the corresponding Terraform Registry and Module:<br><a href=\"https://registry.terraform.io\">the corresponding technology here</a></strong></p>"
+    "description": "<p><strong>Current Usage by SBG:</strong><br><i>CAERO - 58 </i><br><i>CBLD - 35 </i><br><i>CSPS - 0 </i><br><i>CPLT - 10 </i><br><i>CYBR - 0 </i><br><i>CHQ - 99 </i><br><i>CI - 12 </i> <br><strong>Standards:</strong><br> The Standard setup for <i>some technology</i> is a <i>azure instance size</i> with <i>network</i> and <i>storage</i> using the Honeywell License <br><br><br><a href=\"https://registry.terraform.io\">the Corresponding Terraform Module is Found Here</a></p>"
   },
   {
     "name": "Azure Blob Storage",
